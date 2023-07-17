@@ -1,0 +1,19 @@
+################SUMMARY########################
+
+I have explored the data to predict whether customer would accept coupons or not. I have mostly divided the data for bar coupon and coffee coupon. Here is my findings ----  
+
+A) COUPON ---> BAR
+
+1) The acceptance rate is higher for customers who went to bar more than 3 times a month compared to others,
+2) The acceptance rate is higher for customers who went to bar more than once a month and are over the age of 25,
+3) The acceptance rate is higher for the drivers who go to bars more than once a month and had passengers that were not a kid,
+
+
+B) COUPON -----> COFFEE
+1) There is a large proportion of coffee coupons accepted than bar coupons,
+2) The acceptance rate of coffee coupons is higher among customers who went to coffee house more than 3 times a month,
+3) The acceptance rate is higher among the customers whose age is greater than 25.
+
+Here is the link to the jupyter notebook where I have done my data exploration.
+
+http://localhost:8889/notebooks/Desktop/Machine_learning%20course/assignment_5_1_starter/prompt.ipynb#
